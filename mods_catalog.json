@@ -1,0 +1,49 @@
+{
+  "mods": [
+    {
+      "category": "CARS",
+      "title_ru": "Военный танк и тяжелая броня",
+      "title_en": "Military Tank & Heavy Armor",
+      "file_size": "14.2 MB",
+      "badge_text": "EPIC",
+      "badge_color_hex": "#B43CE6",
+      "download_url": "https://example.com/tank.mcpack"
+    },
+    {
+      "category": "WEAPON",
+      "title_ru": "Лазерное оружие Sci-Fi",
+      "title_en": "Cyber Laser & Sci-Fi Guns",
+      "file_size": "9.4 MB",
+      "badge_text": "HOT",
+      "badge_color_hex": "#EB4B28",
+      "download_url": "https://example.com/laser.mcpack"
+    },
+    {
+      "category": "CARS",
+      "title_ru": "Гараж экстремальных суперкаров",
+      "title_en": "Supercar Extreme Garage",
+      "file_size": "21.6 MB",
+      "badge_text": "TOP",
+      "badge_color_hex": "#FFAA00",
+      "download_url": "https://example.com/cars.mcpack"
+    },
+    {
+      "category": "MOBS",
+      "title_ru": "Древние драконы v2",
+      "title_en": "Ancient Dragon Mounts v2",
+      "file_size": "35.0 MB",
+      "badge_text": "NEW",
+      "badge_color_hex": "#28B4FF",
+      "download_url": "https://example.com/dragons.mcpack"
+    },
+    {
+      "category": "WORLDS",
+      "title_ru": "Скайблок: острова выживания",
+      "title_en": "Skyblock Survival Islands",
+      "file_size": "18.3 MB",
+      "badge_text": "TOP",
+      "badge_color_hex": "#23AF4B",
+      "download_url": "https://example.com/skyblock.mcpack"
+    }
+  ]
+}
