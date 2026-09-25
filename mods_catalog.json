@@ -1,4 +1,10 @@
 {
+  "categories": [
+    { "id": "CARS", "ru": "АВТО", "en": "CARS", "es": "AUTOS", "pt": "CARROS", "id_lang": "MOBIL" },
+    { "id": "WEAPON", "ru": "ОРУЖИЕ", "en": "WEAPON", "es": "ARMAS", "pt": "ARMAS", "id_lang": "SENJATA" },
+    { "id": "MOBS", "ru": "МОБЫ", "en": "MOBS", "es": "MOBS", "pt": "MOBS", "id_lang": "MOBS" },
+    { "id": "WORLDS", "ru": "МИРЫ", "en": "WORLDS", "es": "MUNDOS", "pt": "MUNDOS", "id_lang": "DUNIA" }
+  ],
   "mods": [
     {
       "id": "mod_tank",
@@ -90,7 +96,7 @@
       "title_es": "Skyblock: Islas de supervivencia",
       "title_pt": "Skyblock: Ilhas de Sobrevivência",
       "title_id": "Skyblock: Pulau Kelangsungan Hidup",
-      "desc_ru": "Кла испытание на выживание в пустоте. Начните с крошечного острова с одним деревом и добейтесь полного процветания.",
+      "desc_ru": "Испытание на выживание в пустоте. Начните с крошечного острова с одним деревом и добейтесь полного процветания.",
       "desc_en": "The ultimate void survival challenge. Start on a tiny island with one tree and expand your empire.",
       "desc_es": "El desafío definitivo de supervivencia en el vacío. Comienza en una isla diminuta con un solo árbol.",
       "desc_pt": "O desafio supremo de sobrevivência no vazio. Comece em uma ilha minúscula com apenas uma árvore.",
