@@ -3,6 +3,7 @@
     {
       "id": "mod_tank",
       "is_premium": true,
+      "price_in_gems": 2,
       "category": "CARS",
       "title_ru": "Военный танк и тяжелая броня",
       "title_en": "Military Tank & Heavy Armor",
@@ -14,6 +15,7 @@
     {
       "id": "mod_laser",
       "is_premium": false,
+      "price_in_gems": 1,
       "category": "WEAPON",
       "title_ru": "Лазерное оружие Sci-Fi",
       "title_en": "Cyber Laser Guns",
@@ -21,17 +23,6 @@
       "badge_text": "HOT",
       "badge_color_hex": "#EB4B28",
       "download_url": "https://example.com/laser.mcpack"
-    },
-    {
-      "id": "mod_dragon",
-      "is_premium": true,
-      "category": "MOBS",
-      "title_ru": "Древние драконы v2",
-      "title_en": "Ancient Dragon Mounts v2",
-      "file_size": "35.0 MB",
-      "badge_text": "VIP",
-      "badge_color_hex": "#FFAA00",
-      "download_url": "https://example.com/dragons.mcpack"
     }
   ]
 }
