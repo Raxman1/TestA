@@ -24,7 +24,8 @@
       "file_size": "14.2 MB",
       "badge_text": "VIP",
       "badge_color_hex": "#FFAA00",
-      "download_url": "https://example.com/tank.mcpack"
+      "download_url": "https://example.com/tank.mcpack",
+      "image_url": "https://example.com/images/tank.png"
     },
     {
       "id": "mod_laser",
@@ -44,7 +45,8 @@
       "file_size": "9.4 MB",
       "badge_text": "HOT",
       "badge_color_hex": "#EB4B28",
-      "download_url": "https://example.com/laser.mcpack"
+      "download_url": "https://example.com/laser.mcpack",
+      "image_url": "https://example.com/images/laser.png"
     },
     {
       "id": "mod_dragon",
@@ -64,7 +66,8 @@
       "file_size": "35.0 MB",
       "badge_text": "VIP",
       "badge_color_hex": "#FFAA00",
-      "download_url": "https://example.com/dragons.mcpack"
+      "download_url": "https://example.com/dragons.mcpack",
+      "image_url": "https://example.com/images/dragon.png"
     },
     {
       "id": "mod_supercars",
@@ -84,7 +87,8 @@
       "file_size": "21.6 MB",
       "badge_text": "VIP",
       "badge_color_hex": "#FFAA00",
-      "download_url": "https://example.com/supercars.mcpack"
+      "download_url": "https://example.com/supercars.mcpack",
+      "image_url": "https://example.com/images/supercars.png"
     },
     {
       "id": "mod_skyblock",
@@ -104,7 +108,8 @@
       "file_size": "18.3 MB",
       "badge_text": "TOP",
       "badge_color_hex": "#28B4EB",
-      "download_url": "https://example.com/skyblock.mcpack"
+      "download_url": "https://example.com/skyblock.mcpack",
+      "image_url": "https://example.com/images/skyblock.png"
     },
     {
       "id": "mod_mutants",
@@ -124,7 +129,8 @@
       "file_size": "28.5 MB",
       "badge_text": "VIP",
       "badge_color_hex": "#FFAA00",
-      "download_url": "https://example.com/mutants.mcpack"
+      "download_url": "https://example.com/mutants.mcpack",
+      "image_url": "https://example.com/images/mutants.png"
     },
     {
       "id": "mod_megacity",
@@ -144,7 +150,8 @@
       "file_size": "42.0 MB",
       "badge_text": "NEW",
       "badge_color_hex": "#28B0FF",
-      "download_url": "https://example.com/megacity.mcpack"
+      "download_url": "https://example.com/megacity.mcpack",
+      "image_url": "https://example.com/images/megacity.png"
     },
     {
       "id": "mod_portal_gun",
@@ -164,7 +171,8 @@
       "file_size": "12.1 MB",
       "badge_text": "VIP",
       "badge_color_hex": "#FFAA00",
-      "download_url": "https://example.com/portalgun.mcpack"
+      "download_url": "https://example.com/portalgun.mcpack",
+      "image_url": "https://example.com/images/portalgun.png"
     },
     {
       "id": "mod_furniture",
@@ -184,7 +192,8 @@
       "file_size": "16.8 MB",
       "badge_text": "POPULAR",
       "badge_color_hex": "#48C9B0",
-      "download_url": "https://example.com/furniture.mcpack"
+      "download_url": "https://example.com/furniture.mcpack",
+      "image_url": "https://example.com/images/furniture.png"
     },
     {
       "id": "mod_shaders",
@@ -204,7 +213,8 @@
       "file_size": "50.4 MB",
       "badge_text": "VIP",
       "badge_color_hex": "#FFAA00",
-      "download_url": "https://example.com/shaders.mcpack"
+      "download_url": "https://example.com/shaders.mcpack",
+      "image_url": "https://example.com/images/shaders.png"
     }
   ]
 }
